@@ -1,6 +1,6 @@
 { "name": "busboy",
-  "version": "0.2.13",
-  "author": "Brian White <mscdex@mscdex.net>",
+  "version": "0.2.14",
+  "author": "jaxgeller",
   "description": "A streaming parser for HTML form data for node.js",
   "main": "./lib/main",
   "dependencies": {
